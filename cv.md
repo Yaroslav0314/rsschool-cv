@@ -1,9 +1,10 @@
-## 1.[rsschool-cv]()
+## [rsschool-cv]()
 
-# 2.Maryankou Yaraslau 
+# Maryankou Yaraslau 
 
-### 3/Contacts 
-    *__Location:__ Bychau,Belarus
-    *__Phone:__ +375 29 5444679
-    *__Email:__ Bluesland1988
-    
+### Contacts 
+    * **Location:** Bychau,Belarus
+    * **Phone:** +375 29 5444679
+    * **Email:** bluesland1988@gmail.com
+    * **GitHub:** Yaroslav0314
+    * **Telegram:** @Yaroslav0314
